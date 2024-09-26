@@ -1,9 +1,9 @@
-<h1 align ="center">RESIZE GRID</h1>
+<h1 align ="center">RESIZE GRID</h1> 
 
-![EEqucu](https://github.com/user-attachments/assets/cbe6b256-41c7-4b2f-9946-1efbc2a32d18)
-
+<img src="https://github.com/user-attachments/assets/cbe6b256-41c7-4b2f-9946-1efbc2a32d18" width="500">
+<p></p>
 Resize Grid is an Aseprite Extension that allows to easily adjust the grid size by increasing or decreasing it to suit their needs.
-
+<p></p>
 This uses keyboard shortcuts or navigating the extension's options in the menu. Additionally, users can customize the scaling of the grid size, ensuring that the changes are to their preferences.
 These settings are automatically saved and will persist the next time Aseprite is opened, allowing for a seamless and efficient workflow.
 
@@ -20,6 +20,8 @@ A sprite must be open to use this extension. If no sprite is open, the plugin wi
 <h2>How to use</h2>
 
 Resize Grid can be accessed through the View menu. You can perform the grid resizing either by selecting the options provided or by modifying the default settings. Additionally, shortcuts are available for quick execution of the resizing process.
+<p align=center></p>
+
 ![image](https://github.com/user-attachments/assets/ff2168ee-1045-466a-836b-d09bd3ce46fa)
 <p align=center></p>
 In the Settings window, you can adjust a key parameter that determines the scaling factor for your grid.
