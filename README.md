@@ -1,4 +1,4 @@
-<h1 align ="center">RESIZE GRID</h1> 
+<h1>RESIZE GRID - Aseprite Plugin </h1> 
 
 <img src="https://github.com/user-attachments/assets/cbe6b256-41c7-4b2f-9946-1efbc2a32d18" width="500">
 <p></p>
