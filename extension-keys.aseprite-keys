@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="resize-grid-decrease" shortcut="Alt+PgDn" />
+        <key command="resize-grid-increase" shortcut="Alt+PgUp" />
+    </commands>
+</keyboard>

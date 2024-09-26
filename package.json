@@ -1,0 +1,27 @@
+{
+    "name": "resize-grid",
+    "displayName": "Resize Grid",
+    "description": "Resize the grid bounds with shortcuts",
+    "version": "1.0",
+    "author": {
+        "name": "Gabriel Carvalho",
+        "email": "gabrielcocarvalho@gmail.com"
+    },
+    "contributors": [ ],
+    "publisher": "oakgc",
+    "license": "MIT",
+    "categories": [ "Scripts" ,"Keys" ],
+    "contributes": {
+        "scripts": [
+            { 
+                "path": "./resize-grid.lua" 
+            }
+        ],
+        "keys":[
+            {
+                "id":"resize-grid",
+                "path": "./extension-keys.aseprite-keys"
+            }
+        ]
+    }
+}
